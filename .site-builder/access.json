@@ -1,0 +1,8 @@
+{
+  "algorithm": "scrypt",
+  "N": 16384,
+  "r": 8,
+  "p": 1,
+  "salt": "6d33eb9041feea9a2bfbcb9a107b0c5b",
+  "hash": "66c3d1bcd280ec8ec767abe96ad85d7cee9aa334addf0c36363d75f9bc1aea05"
+}
